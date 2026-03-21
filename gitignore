@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE settings
+.idea/
+.vscode/
+
+# Vector / local databases
+chroma_db/
+
+# Windsurf IDE folder
+CodingWithWindsurf/
+
+# OS files
+.DS_Store
+Thumbs.db
