@@ -1,0 +1,47 @@
+# Server
+flask
+fastapi
+uvicorn
+gunicorn
+python-dotenv
+requests
+
+# Supabase
+supabase
+gotrue
+postgrest
+
+# Vector Database / RAG
+chromadb
+langchain
+langchain-community
+langchain-anthropic
+langchain-openai
+openai
+anthropic
+
+# Embeddings & ML
+sentence-transformers
+transformers
+torch
+numpy
+pandas
+scikit-learn
+
+# Document Processing
+pypdf
+pdfplumber
+python-docx
+beautifulsoup4
+lxml
+
+# Database
+psycopg2-binary
+sqlalchemy
+
+# Utilities
+tqdm
+httpx
+aiohttp
+pydantic
+typing-extensions
