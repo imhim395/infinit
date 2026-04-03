@@ -134,7 +134,7 @@ def _get_tavily_client():
     global _tavily
     if _tavily is None:
         from tavily import TavilyClient
-        _tavily = TavilyClient(api_key="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")
+        _tavily = TavilyClient(api_key="_")
     return _tavily
 
 
