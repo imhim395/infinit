@@ -134,7 +134,7 @@ def _get_tavily_client():
     global _tavily
     if _tavily is None:
         from tavily import TavilyClient
-        _tavily = TavilyClient(api_key="_")
+        _tavily = TavilyClient(api_key="not on github")
     return _tavily
 
 
