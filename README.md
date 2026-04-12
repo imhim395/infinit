@@ -144,6 +144,3 @@ POST /chat/stream
 | ![](https://img.shields.io/badge/-55C1FF-55C1FF?style=flat-square) | `#55C1FF` | Info / sky blue |
 | ![](https://img.shields.io/badge/-102E4A-102E4A?style=flat-square) | `#102E4A` | Background / navy |
 
-## License
-
-MIT
